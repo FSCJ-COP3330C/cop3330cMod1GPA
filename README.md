@@ -13,7 +13,7 @@ The application must include the following classes:
 		- a role that is represented by an enum type with the following values: product owner, scrum team master, developer, QA tester, architect 
 		- an object reference to their team. 
 		Provide all necessary constructors, mutators, and accessors (the id field is read-only, do not provide a mutator for it).
-        Provide a toString method which returns a String containing the team member's state.
+        	Provide a toString method which returns a String containing the team member's state.
 	- A class which represents a Scrum team with various members. The team members must be stored in an ArrayList.
 	- A ScrumWorkflowManager class which contains a main method that acts as the primary application driver. 
 
